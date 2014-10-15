@@ -176,8 +176,6 @@ void draw(){
          }
        
        
-       
-         
         break;
     case GAME_WIN:
         background(0);
